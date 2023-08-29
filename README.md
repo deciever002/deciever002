@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manas</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🗒️ Software Engineer with 2+ years of experience in developing web applications. Expertise in Express, Next, and React. Passionate about building user-friendly and scalable applications.
+
+- 🌱 I’m currently learning **AWS Cloud**
 
 - 👨‍💻 All of my projects are available at [http://portfolio.com](http://portfolio.com)
 
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **manastiwari002@gmail.com**
 
-- ⚡ Fun fact **I think**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
