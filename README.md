@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [http://portfolio.com](http://portfolio.com)
-
 - 💬 Ask me about **React, Next, Redux, NodeJs, ExpressJs**
 
 - 📫 How to reach me **manastiwari002@gmail.com**
